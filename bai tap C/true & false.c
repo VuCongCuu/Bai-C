@@ -28,4 +28,14 @@ int main(int argc, char *argv[]) {
 		} else {
 		printf("false\n");
 	}
-}
+	
+	if(a>0 & b<10){
+		printf("true\n");
+	} else {
+		printf("false\n");
+	
+	if(a<0 || b<0 ){
+		printf("true\n");
+	} else {
+		printf("false\n");
+	}
